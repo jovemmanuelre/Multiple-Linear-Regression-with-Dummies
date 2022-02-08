@@ -1,2 +1,4 @@
-*.csv
-*/.idea
+.csv
+/.idea
+.xml
+.iml
